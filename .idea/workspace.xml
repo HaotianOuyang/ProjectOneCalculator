@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ProjectOneCalculator:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00a773d5-3802-4dcc-9cd6-d4fefde3f415" name="Changes" comment="Project initialised">
-      <change afterPath="$PROJECT_DIR$/src/Calculation.java" afterDir="false" />
+    <list default="true" id="00a773d5-3802-4dcc-9cd6-d4fefde3f415" name="Changes" comment="Create two new text bar.">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ProjectOneCalculator_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ButtonAffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CalculatorWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculatorWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Amazon Corretto/jdk17.0.9_8/lib/src.zip!/java.desktop/javax/swing/JButton.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -38,9 +49,14 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
@@ -90,11 +106,20 @@
       <option name="project" value="LOCAL" />
       <updated>1704289976420</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create two new text bar.">
+      <option name="closed" value="true" />
+      <created>1704368106200</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704368106200</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project initialised" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project initialised" />
+    <MESSAGE value="Create two new text bar." />
+    <option name="LAST_COMMIT_MESSAGE" value="Create two new text bar." />
   </component>
 </project>

@@ -21,5 +21,6 @@ public class Calculation {
         return a * b;
     }
 
+    public static double mod(double a, double b){return a % b;}
 
 }
